@@ -1,0 +1,7 @@
+secrets
+re
+
+Flask==2.0.2
+Flask-Mail==0.9.1
+psycopg2==2.9.1
+Werkzeug==2.0.2
